@@ -62,3 +62,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravelapp
 # Repository-Baru
+1. Clone repositori ini dengan git clone 
+2. Database sqlite 
+3. Jalankan terminal dengan  perintah php artisan migrate:fresh --seed untuk migration database
+4.jalan terminal dengan perintah php artisan serve untuk menjalankan app
+5. Login dengan username :mucharomtzaka@yahoo.co.id , pass:12345678
+6. Untuk lihat api login dengan alamat http:localhost:8000/api/login dengan postman 
+Untuk melihat token dari scantum
