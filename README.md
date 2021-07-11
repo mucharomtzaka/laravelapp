@@ -62,3 +62,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravelapp
 # Repository-Baru
+Latihan laravel 8 sqlite Api with Scantum Auth Token
+1. Clone dan install dengan composer init untuk install require package ini
+2.ubah location database sesuai root di file .env
+3.migration dengan perintah php artisan migrate:fresh --seed
+4. Jalankan php artisan serve dan login username:mucharomtzaka@yahoo.co.id , pass;12345678
+5. Alamat Api :http://localhost:8000/api/login
+    Untuk dapatkan token auth
+
